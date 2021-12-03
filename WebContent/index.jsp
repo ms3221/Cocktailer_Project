@@ -123,6 +123,7 @@
           <div class="numbox__bar__total"></div>
           <div class="numbox__bar__now"></div>
         </div>
+        <p>안녕시아야!</p>
       </div>
   </body>
 </html>
